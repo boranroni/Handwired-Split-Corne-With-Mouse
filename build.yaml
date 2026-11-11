@@ -21,5 +21,7 @@
 include:
   - board: nice_nano//zmk
     shield: corne_hw_left
+    artifact-name: corne_hw_left
   - board: nice_nano//zmk
     shield: corne_hw_right
+    artifact-name: corne_hw_right
